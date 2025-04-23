@@ -23,8 +23,8 @@ Python 3.x
 Clone this repository or copy the code into a .py file:
 
 bash
-git clone https://github.com/yourusername/number-guessing-game.git
-cd number-guessing-game
+git clone https://github.com/IqramZargar/GuessTheNumberGame
+cd GuessTheNumberGame
 Run the game:
 
 bash
