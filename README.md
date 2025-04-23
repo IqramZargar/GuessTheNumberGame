@@ -10,9 +10,9 @@ Based on the user's guess, the program provides feedback:
 
 If the guess is correct: 🎉 BINGO! YOU GOT IT RIGHT
 
-If the guess is too low: 📉 YO SHOULD GUESS A BIT LARGER VALUE
+If the guess is too low: 📉 YOU SHOULD GUESS A BIT LARGER VALUE
 
-If the guess is too high: 📈 YO SHOULD GUESS A BIT SMALLER VALUE
+If the guess is too high: 📈 YOU SHOULD GUESS A BIT SMALLER VALUE
 
 The game continues until the correct number is guessed or the user quits.
 
