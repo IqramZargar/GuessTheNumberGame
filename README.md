@@ -67,4 +67,13 @@ Try modifying the number range to make it easier or harder.
 Add a counter to track how many guesses it took.
 
 Implement a high score feature!
+
+
+📄 License
+This project is licensed under the MIT License. See LICENSE for more details.
+
+✨ Author
+Made with ❤️ by Muhammad Iqram Zargar
+
+
 # GuessTheNumberGame
